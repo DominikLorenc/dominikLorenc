@@ -34,11 +34,6 @@ specializing in the **Shopify & Shopify Plus** ecosystem.
 - 🏗️ Build stores using **headless architecture** (React + Storefront API)
 - ⚛️ Develop interactive UIs with **React + TypeScript**
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=DominikLorenc&show_icons=true&theme=dark)
 
 ---
 
